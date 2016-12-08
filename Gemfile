@@ -36,6 +36,7 @@ gem 'font-awesome-rails'
 gem 'dotenv-rails'
 
 gem 'omniauth-twitter'
+gem 'omniauth-facebook'
 
 gem 'simple_form'
 
