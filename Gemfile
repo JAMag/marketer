@@ -35,6 +35,8 @@ gem 'devise', '~> 4.1.1'
 gem 'font-awesome-rails'
 gem 'dotenv-rails'
 
+gem 'omniauth-twitter'
+
 gem 'simple_form'
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
