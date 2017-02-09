@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'delayed_job_active_record'
 gem 'delayed-web', github: 'thebestday/delayed-web'
+gem 'will_paginate'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
