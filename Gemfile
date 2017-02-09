@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'delayed_job_active_record'
+gem 'delayed-web', github: 'thebestday/delayed-web'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
